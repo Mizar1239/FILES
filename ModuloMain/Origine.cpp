@@ -4,7 +4,7 @@
 #include <ios>
 
 #define FOGLIO "nuove frasi.txt"
-#define FRASE_OUTPUT "mannacc a maronn"
+#define FRASE_OUTPUT "frase reset"
 #define NUOVA_FRASE "nuova frase in appendix"
 
 void lettura(void) ;
